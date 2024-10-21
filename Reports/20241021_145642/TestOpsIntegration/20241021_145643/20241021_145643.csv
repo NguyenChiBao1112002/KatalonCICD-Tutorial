@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestOpsIntegration,Chrome 129.0.0.0,,,21-10-2024 14:56:49,21-10-2024 14:57:00,10.088s,PASSED
+,,,,,,,
+Test Cases/TestOpsIntegration/TestOpsTesting,Chrome 129.0.0.0,,,21-10-2024 14:56:50,21-10-2024 14:57:00,9.963s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,21-10-2024 14:56:50,21-10-2024 14:56:51,1.409s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 129.0.0.0,,,21-10-2024 14:56:51,21-10-2024 14:56:54,2.847s,PASSED
+"click(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 129.0.0.0,,,21-10-2024 14:56:54,21-10-2024 14:56:55,0.683s,PASSED
+"setText(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 129.0.0.0,,,21-10-2024 14:56:55,21-10-2024 14:56:55,0.670s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 129.0.0.0,,,21-10-2024 14:56:55,21-10-2024 14:56:56,0.310s,PASSED
+"click(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/button_Login""))",Chrome 129.0.0.0,,,21-10-2024 14:56:56,21-10-2024 14:56:57,0.775s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 129.0.0.0,,,21-10-2024 14:56:57,21-10-2024 14:56:57,0.795s,PASSED
+"click(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/div_Visit Date (Required)_input-group-addon""))",Chrome 129.0.0.0,,,21-10-2024 14:56:57,21-10-2024 14:56:58,0.269s,PASSED
+"click(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/td_10""))",Chrome 129.0.0.0,,,21-10-2024 14:56:58,21-10-2024 14:56:58,0.464s,PASSED
+"setText(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Appointment for HongKong"")",Chrome 129.0.0.0,,,21-10-2024 14:56:58,21-10-2024 14:56:59,0.719s,PASSED
+"click(findTestObject(""Object Repository/TestOpsIntegration/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 129.0.0.0,,,21-10-2024 14:56:59,21-10-2024 14:56:59,0.526s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,21-10-2024 14:56:59,21-10-2024 14:57:00,0.253s,PASSED
