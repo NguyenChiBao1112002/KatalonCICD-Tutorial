@@ -12,10 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ef7d2dd9-2504-46e7-b185-279d485c4469</testSuiteGuid>
    <testCaseLink>
-      <guid>1613c43f-588b-42a5-879d-f46b490c4a19</guid>
+      <guid>59e3cad9-fb20-498d-9a79-299316e84912</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestOpsIntegration/TestOpsTesting</testCaseId>
+      <testCaseId>Test Cases/TestOpsIntegration/TestOpsTesting1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5f79d529-4389-4d53-9475-90187bb6367c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TestOpsIntegration/TestOpsTesting2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
